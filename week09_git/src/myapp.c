@@ -29,5 +29,6 @@ int main(void){
     printf("Enter expresstion (e.g. 1+2): ");
     scanf("%lf %s %lf", &a, op, &b);
     printf("Result = %.2lf\n", calculate(op,a,b));
+    printf("~~~ Goodbye seeyou again ~~~\n\n");
     return 0;
 }
