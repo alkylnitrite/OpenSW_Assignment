@@ -1,0 +1,11 @@
+# Object files
+*.o
+
+# Static libraries
+*.a
+
+# Shared libraries (플랫폼별)
+*.so
+*.dll
+*.dylib
+
